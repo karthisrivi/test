@@ -1,5 +1,5 @@
 node("master"){
-step('cehckout'){
+stage('checkout'){
 
 }
 stage('build'){
