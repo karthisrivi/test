@@ -1,4 +1,6 @@
 node("master"){
-stage{
+step('cehckout'){
 
+}
+stage('build'){
 }
